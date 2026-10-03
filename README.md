@@ -2,10 +2,6 @@
 
 ### Full Stack Developer (Newbie)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cyrus-Web-Dev&label=Profile views&color=0e75b6&style=flat" alt="Cyrus-Web-Dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cyrus-Web-Dev" alt="Cyrus-Web-Dev" /></a> </p>
-
 - 🌱 I'm currently learning **MySQL, PostgreSQL, PHP, LARAVEL, VUE, Tailwind, React, Node, Express, Vanilla JS**
 
 - 👯 I'm looking to collaborate on **Frontend and Backend development, open-source projects, or modern web apps**
