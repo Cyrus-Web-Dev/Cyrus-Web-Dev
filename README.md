@@ -1,70 +1,24 @@
-<h1 align="center">Hi 👋, I'm Cyrus Van Helheim</h1>
-<h3 align="center">Full Stack Developer | Laravel • Vue • React • Node.js</h3>
+# Hi 👋, I'm Cyrus Van Helheim
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cyrus-Web-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### Full Stack Developer (Newbie)
 
----
+- 🌱 I'm currently learning **MySQL, PostgreSQL, PHP, LARAVEL, VUE, Tailwind, React, Node, Express, Vanilla JS**
 
-### 👨‍💻 About Me
+- 👯 I'm looking to collaborate on **Frontend and Backend development, open-source projects, or modern web apps**
 
-- 🌱 Currently diving deep into **Laravel, Vue, React, Node.js, PostgreSQL & MySQL**
-- 💼 Building real-world projects: ERP systems, Work Tools, SPK, and more
-- 🤝 Looking to collaborate on modern web applications & open-source projects
-- 💬 Ask me about **Laravel, Vue, Tailwind, JavaScript, and full-stack development**
-- 📫 Reach me at: **lordkeyaruga01@gmail.com**
+- 🤝 I'm looking for help with **Advanced frontend architecture, UI/UX best practices, or animation libraries**
 
----
+- 💬 Ask me about **React, Vue, Tailwind CSS, JavaScript, and responsive web design**
 
-### 🛠️ Languages & Tools
+- 📫 How to reach me **lordkeyaruga01@gmail.com**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,vue,react,nodejs,express,tailwind,bootstrap,mysql,postgres,git,github,electron" />
-</p>
+- ⚡ Fun fact **I'm STRAIGHT and I Hate LGBTQ PEOPLE**
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/puppeteer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
 
-### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyrus-Web-Dev&show_icons=true&locale=en&layout=compact" alt="Cyrus-Web-Dev" /></p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cyrus-Web-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-Web-Dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyrus-Web-Dev&show_icons=true&locale=en" alt="Cyrus-Web-Dev" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyrus-Web-Dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|----------|
-| **ERP Inventaris** | Sistem manajemen stok, aset & mutasi gudang | Laravel, PostgreSQL |
-| **PROCURA** | Sistem Pengadaan terintegrasi | Laravel, Gmail API |
-| **Work Tools** | All-in-one document tools (PDF, AI CV, dll) | Vue, Laravel, Gemini |
-| **SPK Keuangan UMKM** | Aplikasi keuangan + SPK untuk UMKM | Node.js, MySQL |
-| **Tes IQ & EQ** | Aplikasi tes psikologi online | Vue / Node |
-
-> *Link project akan ditambahkan setelah repo selesai dirapikan.*
-
----
-
-### 📫 Connect with me
-
-<p align="center">
-  <a href="mailto:lordkeyaruga01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Cyrus-Web-Dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Code with purpose. Build with passion.”</i>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyrus-Web-Dev&" alt="Cyrus-Web-Dev" /></p>
