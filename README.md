@@ -139,7 +139,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <br/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,linux,windows,postman,figma" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,npm,vercel,windows" alt="tools"/>
 </p>
 
 `Composer` · `Vite` · `EAS Build` · `Laragon / XAMPP` · `pgAdmin` · `phpMyAdmin` · `Google Cloud Console`
