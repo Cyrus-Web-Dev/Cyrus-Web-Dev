@@ -44,7 +44,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 </tr>
 </table>
 
-📫 **Kontak:** `Example@gmail.com` *(ganti dengan email Anda)*
+📫 **Kontak:** `lordkeyaruga01@gmail.com`
 ⚡ **Fun fact:** saya pernah membuat visual novel romance Indonesia lengkap dengan sistem affection dan 5 jalur cerita, dan game tebak kode dengan lebih dari 2.400 soal.
 
 ---
