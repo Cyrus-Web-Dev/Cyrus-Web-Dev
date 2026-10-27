@@ -287,7 +287,7 @@ Jika Anda punya ide aplikasi web, sistem internal bisnis, atau proyek open-sourc
 
 <div align="center">
 
-<a href="mailto:Example@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:lordkeyaruga01@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Cyrus-Web-Dev?tab=repositories"><img src="https://img.shields.io/badge/Lihat-Semua%20Repositori-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositori"/></a>
 
 <br/><br/>
