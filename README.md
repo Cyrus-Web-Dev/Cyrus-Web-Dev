@@ -19,7 +19,7 @@
 
 ## 👋 Tentang Saya
 
-Saya **Cyrus**, seorang *Full Stack Developer* yang suka mengubah masalah nyata menjadi aplikasi yang rapi dan aman. Dalam waktu singkat saya sudah menyelesaikan **18 project** yang mencakup suite ERP lima aplikasi, platform SSO multi-modul, logistik armada dengan GPS, monitoring mesin pabrik berbasis IoT, POS + toko online, kasir UMKM offline, game web dan mobile, aplikasi desktop Windows, blog teknis, sampai toolkit produktivitas.
+Saya **Cyrus**, seorang *Full Stack Developer* yang suka mengubah masalah nyata menjadi aplikasi yang rapi dan aman. Dalam waktu singkat saya sudah menyelesaikan beberapa project besar yang mencakup suite ERP lima aplikasi, platform SSO multi-modul, logistik armada dengan GPS, monitoring mesin pabrik berbasis IoT, POS + toko online, kasir UMKM offline, game web dan mobile, aplikasi desktop Windows, blog teknis, sampai toolkit produktivitas.
 
 <table>
 <tr>
