@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cyrus%20Van%20Helheim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Vue%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descSize=16&descAlignY=58" alt="Cyrus Van Helheim" width="100%"/>
 
 <a href="https://github.com/Cyrus-Web-Dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Membangun+ERP%2C+POS%2C+game%2C+dan+tools+desktop;Laravel+%2B+Vue+%2B+Inertia+%7C+Next.js+%2B+Supabase;Express+%2B+Electron+%7C+React+Native+(Expo);Belajar+setiap+hari%2C+shipping+setiap+minggu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Membangun+ERP%2C+POS%2C+logistik%2C+IoT%2C+dan+game;Laravel+%2B+Vue+%2B+Inertia+%7C+Next.js+%2B+Supabase;Express+%2B+Electron+%7C+React+Native+(Expo);MQTT+%2B+ESP32+%2B+WebSocket+real-time;Belajar+setiap+hari%2C+shipping+setiap+minggu" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,14 +19,14 @@
 
 ## 👋 Tentang Saya
 
-Saya **Cyrus**, seorang *Full Stack Developer* yang suka mengubah masalah nyata menjadi aplikasi yang rapi dan aman. Dalam waktu singkat saya sudah menyelesaikan **14 project** yang mencakup sistem ERP lima aplikasi, POS + toko online, game web dan mobile, aplikasi desktop Windows, blog teknis, sampai toolkit produktivitas.
+Saya **Cyrus**, seorang *Full Stack Developer* yang suka mengubah masalah nyata menjadi aplikasi yang rapi dan aman. Dalam waktu singkat saya sudah menyelesaikan **18 project** yang mencakup suite ERP lima aplikasi, platform SSO multi-modul, logistik armada dengan GPS, monitoring mesin pabrik berbasis IoT, POS + toko online, kasir UMKM offline, game web dan mobile, aplikasi desktop Windows, blog teknis, sampai toolkit produktivitas.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 🌱 **Sedang saya dalami**
-MySQL · PostgreSQL · PHP · Laravel · Vue · Tailwind · React · Node · Express · Vanilla JS · React Native
+MySQL · PostgreSQL · PHP · Laravel · Vue · Tailwind · React · Node · Express · Vanilla JS · React Native · IoT (ESP32 + MQTT)
 
 🤝 **Terbuka untuk kolaborasi**
 Frontend & backend, proyek open-source, aplikasi web modern
@@ -44,8 +44,8 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 </tr>
 </table>
 
-📫 **Kontak:** `lordkeyaruga01@gmail.com`
-⚡ **Fun fact:** saya pernah membuat visual novel romance Indonesia lengkap dengan sistem affection dan 5 jalur cerita, dan game tebak kode dengan lebih dari 2.400 soal.
+📫 **Kontak:** `Example@gmail.com` *(ganti dengan email Anda)*
+⚡ **Fun fact:** saya pernah membuat sistem yang menghitung OEE mesin pabrik dari sensor ESP32, aplikasi logistik yang mendeteksi pencurian solar lewat GPS, visual novel dengan 5 jalur cerita, dan game tebak kode dengan lebih dari 2.400 soal.
 
 ---
 
@@ -70,6 +70,10 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-F27474?style=flat-square)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Vue Router](https://img.shields.io/badge/Vue%20Router-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA%20Offline--first-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square)
 
 </details>
 
@@ -78,10 +82,13 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <br/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,java,electron" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,java,cpp,arduino,electron" alt="backend"/>
 </p>
 
 ![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Laravel Reverb](https://img.shields.io/badge/Laravel%20Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Spatie Permission](https://img.shields.io/badge/Spatie%20Permission-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js Route Handlers](https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -96,10 +103,10 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <br/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" alt="database"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis" alt="database"/>
 </p>
 
-`Row Level Security` · `Trigger & constraint PostgreSQL` · `Migrasi & seeder` · `Fungsi SQL (RPC)` · `Backup & restore`
+`Row Level Security` · `Trigger & constraint PostgreSQL` · `Partial unique index` · `timestamptz (UTC)` · `Migrasi & seeder` · `Fungsi SQL (RPC)` · `Backup & restore` · `TimescaleDB (opsional)`
 
 </details>
 
@@ -115,6 +122,11 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
 ![Idempotency](https://img.shields.io/badge/Idempotency--Key-F59E0B?style=flat-square)
 ![VOICEVOX](https://img.shields.io/badge/VOICEVOX-FF7F50?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![SSO](https://img.shields.io/badge/SSO%20Token%20HMAC-0F766E?style=flat-square)
+![Traccar GPS](https://img.shields.io/badge/Traccar%20GPS-2D7DD2?style=flat-square)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
 </details>
 
@@ -128,9 +140,11 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 | Gambar & Media | `sharp` · `@imgly/background-removal-node` · `tesseract.js` · `ffmpeg` · `puppeteer-core` · `qrcode` |
 | Grafik & 3D | `Chart.js` · `Recharts` · `Three.js` · `@react-three/fiber` · `react-native-svg` |
 | Konten | `next-mdx-remote` · `remark-gfm` · `Shiki` · `rehype-pretty-code` |
+| Peta & Real-time | `Leaflet` · `Laravel Echo` · `pusher-js` · `Laravel Reverb` · `php-mqtt/client` |
+| IoT | `PubSubClient` (ESP32) · `Mosquitto` · `paho-mqtt` (simulator) |
 | Desktop | `Electron` · `electron-builder` · `better-sqlite3` · `sql.js` |
-| Mobile | `Expo SDK 57` · `React Navigation` · `AsyncStorage` · `expo-haptics` · `expo-image-picker` |
-| Keamanan | `@node-rs/argon2` · `jose` · `jsonwebtoken` · `express-rate-limit` · `spatie/laravel-permission` |
+| Mobile | `Expo SDK 57/58` · `React Navigation` · `AsyncStorage` · `expo-sqlite` · `expo-haptics` · `expo-image-picker` |
+| Keamanan | `@node-rs/argon2` · `jose` · `jsonwebtoken` · `express-rate-limit` · `spatie/laravel-permission` · `@noble/ciphers` · `@noble/hashes` |
 
 </details>
 
@@ -139,10 +153,10 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <br/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,npm,vercel,windows" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,docker,linux,windows,postman,figma" alt="tools"/>
 </p>
 
-`Composer` · `Vite` · `EAS Build` · `Laragon / XAMPP` · `pgAdmin` · `phpMyAdmin` · `Google Cloud Console`
+`Composer` · `Vite` · `EAS Build` · `Docker Compose` · `Supervisor & cron` · `Laragon / XAMPP` · `pgAdmin` · `phpMyAdmin` · `Google Cloud Console`
 
 </details>
 
@@ -164,6 +178,24 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 </tr>
 
 <tr>
+<td><b>🔐 PROFINA</b><br/><sub>SSO multi-modul</sub></td>
+<td>Satu pintu login untuk Portal Inti, SDM, Payroll, Keuangan, dan Marketing & Sales. Token SSO HMAC sekali pakai, kunci berbeda per modul, dan pencabutan akses yang berlaku dalam hitungan detik.</td>
+<td><code>Laravel 11</code> <code>Vue 3</code> <code>Inertia</code> <code>SSO (HMAC-SHA256)</code> <code>Spatie RBAC</code> <code>PostgreSQL</code> <code>MySQL</code> <code>DomPDF</code></td>
+</tr>
+
+<tr>
+<td><b>🚛 FLEETPRO</b><br/><sub>Transport & Logistics OS</sub></td>
+<td>GPS tracking dengan geofence, surat jalan digital ber-QR, deteksi pencurian solar, gaji driver per rit, jadwal servis, dan Cost per KM. Dilengkapi PWA driver yang tetap bekerja tanpa sinyal.</td>
+<td><code>Laravel 11</code> <code>Vue 3</code> <code>Inertia</code> <code>PostgreSQL</code> <code>Reverb</code> <code>Leaflet</code> <code>Traccar</code> <code>PWA</code></td>
+</tr>
+
+<tr>
+<td><b>🏭 MEPRO</b><br/><sub>Manufacturing Execution System</sub></td>
+<td>Monitoring mesin pabrik real-time dari sensor ESP32 lewat MQTT: output, downtime otomatis, reject QC, Work Order, dan perhitungan OEE. Termasuk firmware, simulator, dan panduan hardening.</td>
+<td><code>Laravel</code> <code>Vue 3</code> <code>MQTT</code> <code>Mosquitto</code> <code>ESP32 (C++)</code> <code>Reverb</code> <code>PostgreSQL</code> <code>Docker</code></td>
+</tr>
+
+<tr>
 <td><b>🛒 CEMWP</b><br/><sub>Connected Commerce</sub></td>
 <td>Gudang, kasir (POS), toko online, dan CRM dalam satu modular monolith dengan stok anti-oversell, idempotensi, dan 28 test otomatis.</td>
 <td><code>Laravel 11</code> <code>Vue 3</code> <code>Inertia</code> <code>PostgreSQL</code> <code>Sanctum</code> <code>Midtrans</code></td>
@@ -179,6 +211,12 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <td><b>📱 Kode Tebak Mobile</b><br/><sub>Versi offline</sub></td>
 <td>Port mobile Kode Tebak dengan 2.415 soal tervalidasi, Daily Challenge, lencana beranimasi, dan optimasi performa native.</td>
 <td><code>React Native</code> <code>Expo SDK 57</code> <code>TypeScript</code> <code>Zustand</code> <code>AsyncStorage</code></td>
+</tr>
+
+<tr>
+<td><b>🏪 TokoLokal</b><br/><sub>Kasir UMKM offline</sub></td>
+<td>Kasir, stok, dan laporan toko dengan data 100% di perangkat. Harga grosir dan diskon otomatis, struk WhatsApp, serta cadangan terenkripsi AES-GCM. Satu kode untuk Android, iOS, dan Windows.</td>
+<td><code>Expo SDK 58</code> <code>React Native</code> <code>TypeScript</code> <code>expo-sqlite</code> <code>IndexedDB</code> <code>Electron</code></td>
 </tr>
 
 <tr>
@@ -233,7 +271,8 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 - Webhook bertanda tangan **HMAC-SHA256**
 - Rate limiting anti brute-force
 - **Row Level Security** di Supabase
-- Enkripsi data sensitif dan brankas **AES-256**
+- Enkripsi data sensitif, brankas **AES-256**, dan cadangan **AES-GCM + PBKDF2**
+- **SSO** dengan token sekali pakai dan kunci per modul
 
 </td>
 <td width="33%" valign="top">
@@ -245,6 +284,8 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 - Trigger dan constraint PostgreSQL
 - Jejak audit dan log aktivitas
 - Pemisahan tugas (pembuat ≠ penyetuju)
+- Pesan IoT idempoten (`seq`) dan buffer offline
+- Aplikasi **offline-first** (antrean IndexedDB, SQLite lokal)
 
 </td>
 <td width="33%" valign="top">
@@ -254,6 +295,8 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 - Query N+1 dihapus, bank soal dimuat malas
 - Animasi native dan anggaran efek per perangkat
 - Aplikasi desktop dengan installer Windows
+- Real-time dengan WebSocket dan cadangan polling
+- Simulator untuk menguji tanpa perangkat keras
 - Dokumentasi panduan setiap project
 
 </td>
@@ -287,7 +330,7 @@ Jika Anda punya ide aplikasi web, sistem internal bisnis, atau proyek open-sourc
 
 <div align="center">
 
-<a href="mailto:lordkeyaruga01@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:Example@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Cyrus-Web-Dev?tab=repositories"><img src="https://img.shields.io/badge/Lihat-Semua%20Repositori-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositori"/></a>
 
 <br/><br/>
