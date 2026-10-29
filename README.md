@@ -44,7 +44,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 </tr>
 </table>
 
-📫 **Kontak:** `Example@gmail.com` *(ganti dengan email Anda)*
+📫 **Kontak:** `lordkeyaruga01@gmail.com` *(ganti dengan email Anda)*
 ⚡ **Fun fact:** saya pernah membuat sistem yang menghitung OEE mesin pabrik dari sensor ESP32, aplikasi logistik yang mendeteksi pencurian solar lewat GPS, visual novel dengan 5 jalur cerita, dan game tebak kode dengan lebih dari 2.400 soal.
 
 ---
@@ -330,7 +330,7 @@ Jika Anda punya ide aplikasi web, sistem internal bisnis, atau proyek open-sourc
 
 <div align="center">
 
-<a href="mailto:Example@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:lordkeyaruga01@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Cyrus-Web-Dev?tab=repositories"><img src="https://img.shields.io/badge/Lihat-Semua%20Repositori-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositori"/></a>
 
 <br/><br/>
