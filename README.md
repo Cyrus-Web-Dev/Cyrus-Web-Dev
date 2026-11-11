@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cyrus%20Van%20Helheim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Vue%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descSize=16&descAlignY=58" alt="Cyrus Van Helheim" width="100%"/>
 
 <a href="https://github.com/Cyrus-Web-Dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Membangun+ERP%2C+POS%2C+logistik%2C+IoT%2C+dan+game;Laravel+%2B+Vue+%2B+Inertia+%7C+Next.js+%2B+Supabase;Express+%2B+Electron+%7C+React+Native+(Expo);MQTT+%2B+ESP32+%2B+WebSocket+real-time;Belajar+setiap+hari%2C+shipping+setiap+minggu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Membangun+ERP%2C+POS%2C+logistik%2C+IoT%2C+dan+game;Data+science+%2B+FastAPI+%2B+React;Laravel+%2B+Vue+%2B+Inertia+%7C+Next.js+%2B+Supabase;Express+%2B+Electron+%7C+React+Native+(Expo);MQTT+%2B+ESP32+%2B+WebSocket+real-time;Belajar+setiap+hari%2C+shipping+setiap+minggu" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,14 +19,14 @@
 
 ## 👋 Tentang Saya
 
-Saya **Cyrus**, seorang *Full Stack Developer* yang suka mengubah masalah nyata menjadi aplikasi yang rapi dan aman. Dalam waktu singkat saya sudah menyelesaikan beberapa project besar yang mencakup suite ERP lima aplikasi, platform SSO multi-modul, logistik armada dengan GPS, monitoring mesin pabrik berbasis IoT, POS + toko online, kasir UMKM offline, game web dan mobile, aplikasi desktop Windows, blog teknis, sampai toolkit produktivitas.
+Saya **Cyrus**, seorang *Full Stack Developer* yang suka mengubah masalah nyata menjadi aplikasi yang rapi dan aman. Dalam waktu singkat saya sudah menyelesaikan **23 project** yang mencakup suite ERP lima aplikasi, platform SSO multi-modul, logistik armada dengan GPS, monitoring mesin pabrik berbasis IoT, deteksi fraud keuangan dengan machine learning, pendamping skripsi berbasis AI, pelacak portofolio saham, POS dan kasir UMKM offline, game web dan mobile, aplikasi desktop Windows, blog teknis, sampai toolkit produktivitas.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 🌱 **Sedang saya dalami**
-MySQL · PostgreSQL · PHP · Laravel · Vue · Tailwind · React · Node · Express · Vanilla JS · React Native · IoT (ESP32 + MQTT)
+MySQL · PostgreSQL · PHP · Laravel · Vue · Tailwind · React · Node · Express · Vanilla JS · React Native · IoT (ESP32 + MQTT) · Python (FastAPI, scikit-learn)
 
 🤝 **Terbuka untuk kolaborasi**
 Frontend & backend, proyek open-source, aplikasi web modern
@@ -44,8 +44,8 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 </tr>
 </table>
 
-📫 **Kontak:** `lordkeyaruga01@gmail.com` *(ganti dengan email Anda)*
-⚡ **Fun fact:** saya pernah membuat sistem yang menghitung OEE mesin pabrik dari sensor ESP32, aplikasi logistik yang mendeteksi pencurian solar lewat GPS, visual novel dengan 5 jalur cerita, dan game tebak kode dengan lebih dari 2.400 soal.
+📫 **Kontak:** `lordkeyaruga01@gmail.com`
+⚡ **Fun fact:** saya pernah membuat sistem yang menghitung OEE mesin pabrik dari sensor ESP32, model deteksi fraud dengan nilai Shapley eksak buatan sendiri, aplikasi logistik yang mendeteksi pencurian solar lewat GPS, visual novel dengan 5 jalur cerita, dan game tebak kode dengan lebih dari 2.400 soal.
 
 ---
 
@@ -74,6 +74,11 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA%20Offline--first-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=flat-square)
+![Lightweight Charts](https://img.shields.io/badge/TradingView%20Lightweight%20Charts-131722?style=flat-square&logo=tradingview&logoColor=white)
+![d3](https://img.shields.io/badge/d3-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 </details>
 
@@ -89,6 +94,15 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 ![Laravel Reverb](https://img.shields.io/badge/Laravel%20Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%202%20(async)-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-0A0A0A?style=flat-square)
+![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat-square)
+![APScheduler](https://img.shields.io/badge/APScheduler-2C5BB4?style=flat-square)
 ![Spatie Permission](https://img.shields.io/badge/Spatie%20Permission-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js Route Handlers](https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -106,7 +120,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis" alt="database"/>
 </p>
 
-`Row Level Security` · `Trigger & constraint PostgreSQL` · `Partial unique index` · `timestamptz (UTC)` · `Migrasi & seeder` · `Fungsi SQL (RPC)` · `Backup & restore` · `TimescaleDB (opsional)`
+`Row Level Security (Supabase & PostgreSQL)` · `pg_cron` · `Trigger & constraint PostgreSQL` · `Partial unique index` · `timestamptz (UTC)` · `Migrasi & seeder` · `Fungsi SQL (RPC)` · `Backup & restore` · `TimescaleDB (opsional)`
 
 </details>
 
@@ -127,6 +141,12 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 ![SSO](https://img.shields.io/badge/SSO%20Token%20HMAC-0F766E?style=flat-square)
 ![Traccar GPS](https://img.shields.io/badge/Traccar%20GPS-2D7DD2?style=flat-square)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance%20(yfinance)-6001D2?style=flat-square&logo=yahoo&logoColor=white)
+![OpenAI compatible LLM](https://img.shields.io/badge/LLM%20(OpenAI--compatible)-412991?style=flat-square&logo=openai&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Cloudflare Turnstile](https://img.shields.io/badge/Cloudflare%20Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
+![OpenAlex & Crossref](https://img.shields.io/badge/OpenAlex%20%26%20Crossref-0A7AFF?style=flat-square)
 
 </details>
 
@@ -142,7 +162,9 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 | Konten | `next-mdx-remote` · `remark-gfm` · `Shiki` · `rehype-pretty-code` |
 | Peta & Real-time | `Leaflet` · `Laravel Echo` · `pusher-js` · `Laravel Reverb` · `php-mqtt/client` |
 | IoT | `PubSubClient` (ESP32) · `Mosquitto` · `paho-mqtt` (simulator) |
+| Data science | `scikit-learn` · `statsmodels` · `imbalanced-learn` · `SHAP` · `SciPy` · `pandas` · `ReportLab` · `matplotlib` |
 | Desktop | `Electron` · `electron-builder` · `better-sqlite3` · `sql.js` |
+| Dokumen & Impor | `python-docx` · `pypdf` · `openpyxl` · `docx` · `exceljs` · `pptxgenjs` |
 | Mobile | `Expo SDK 57/58` · `React Navigation` · `AsyncStorage` · `expo-sqlite` · `expo-haptics` · `expo-image-picker` |
 | Keamanan | `@node-rs/argon2` · `jose` · `jsonwebtoken` · `express-rate-limit` · `spatie/laravel-permission` · `@noble/ciphers` · `@noble/hashes` |
 
@@ -156,7 +178,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,docker,linux,windows,postman,figma" alt="tools"/>
 </p>
 
-`Composer` · `Vite` · `EAS Build` · `Docker Compose` · `Supervisor & cron` · `Laragon / XAMPP` · `pgAdmin` · `phpMyAdmin` · `Google Cloud Console`
+`Composer` · `Vite` · `EAS Build` · `Docker Compose` · `Alembic` · `pytest` · `Playwright` · `Caddy (HTTPS otomatis)` · `GitHub Actions` · `Sentry` · `Supervisor & cron` · `Laragon / XAMPP` · `pgAdmin` · `phpMyAdmin` · `Google Cloud Console`
 
 </details>
 
@@ -239,7 +261,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 
 <tr>
 <td><b>🧰 Toolkit App</b><br/><sub>25 modul alat</sub></td>
-<td>PDF, hapus background massal, pas foto, OCR, QR, brankas AES-256, serta fitur AI (surat lamaran, CV, terjemah, rangkum).</td>
+<td>PDF, hapus background massal, pas foto, OCR, QR, brankas AES-256, serta fitur AI (surat lamaran, CV, terjemah, rangkum). Tersedia juga edisi publik berlisensi MIT.</td>
 <td><code>Node.js</code> <code>Express</code> <code>Electron</code> <code>sharp</code> <code>pdf-lib</code> <code>Gemini API</code></td>
 </tr>
 
@@ -247,6 +269,36 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <td><b>📚 Perpustakaan Digital</b></td>
 <td>Peminjaman buku dengan verifikasi email OTP, mesin peminjaman teruji 16 skenario, dan REST API Sanctum.</td>
 <td><code>Laravel 11</code> <code>Vue 3</code> <code>Inertia</code> <code>PostgreSQL</code> <code>Sanctum</code></td>
+</tr>
+
+<tr>
+<td><b>💼 FICOIM</b><br/><sub>Keuangan & inventaris UMKM</sub></td>
+<td>Kasir, stok, pembelian, hutang-piutang, dan laporan untuk UMKM. Satu mesin bisnis dipakai di web dan HP (offline-first), dengan backup AES-256-GCM yang bisa dipindah antar perangkat dan 179 tes otomatis.</td>
+<td><code>React 19</code> <code>Expo SDK 57</code> <code>Node.js</code> <code>PostgreSQL (RLS)</code> <code>SQLite</code> <code>TypeScript</code> <code>Monorepo</code></td>
+</tr>
+
+<tr>
+<td><b>🕵️ Deteksi Financial Fraud</b><br/><sub>Skripsi Statistika</sub></td>
+<td>Sistem end-to-end untuk mendeteksi indikasi fraud laporan keuangan: 36 fitur (Beneish, Altman), anti-leakage, kalibrasi, uji DeLong, Shapley eksak, dan laporan PDF otomatis. Diuji dengan 171 tes Python dan 41 tes frontend.</td>
+<td><code>Python</code> <code>FastAPI</code> <code>scikit-learn</code> <code>statsmodels</code> <code>SHAP</code> <code>React 19</code> <code>Three.js</code> <code>ReportLab</code></td>
+</tr>
+
+<tr>
+<td><b>🎓 DOSPEM</b><br/><sub>Dosen pembimbing digital</sub></td>
+<td>Platform bimbingan skripsi di mana AI hanya bertanya dan berkomentar, bukan menulis isi. Ada Mode Sidang, cek EYD V, pustaka APA/IEEE, ekspor Word, pembayaran Premium, dan kontrol biaya LLM. 208 tes otomatis.</td>
+<td><code>Python</code> <code>FastAPI</code> <code>SQLAlchemy 2</code> <code>Alembic</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code> <code>Caddy</code> <code>Midtrans</code></td>
+</tr>
+
+<tr>
+<td><b>📈 StockFolio</b><br/><sub>Portfolio tracker saham</sub></td>
+<td>Pencatat portofolio dengan XIRR, return time-weighted, drawdown, beta, atribusi kinerja, buku besar yang divalidasi ulang secara kronologis, dan laporan tahunan PDF. Termasuk mode demo yang terisolasi.</td>
+<td><code>FastAPI</code> <code>React 18</code> <code>PostgreSQL 16</code> <code>Redis</code> <code>pandas</code> <code>ApexCharts</code> <code>Lightweight Charts</code> <code>Docker</code></td>
+</tr>
+
+<tr>
+<td><b>🧾 JASA-WEB</b><br/><sub>Web jasa pembuatan project</sub></td>
+<td>Etalase tim dan portofolio, form order anti-spam, pelacakan dengan kode 64-bit, modul serah terima untuk klien, dan dashboard admin dengan 2FA yang dipaksa di level database serta hak akses per order.</td>
+<td><code>Next.js 15</code> <code>React 19</code> <code>Supabase</code> <code>Tailwind 4</code> <code>Zod</code> <code>TOTP/MFA</code> <code>Turnstile</code> <code>Telegram</code></td>
 </tr>
 
 <tr>
@@ -273,6 +325,8 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 - **Row Level Security** di Supabase
 - Enkripsi data sensitif, brankas **AES-256**, dan cadangan **AES-GCM + PBKDF2**
 - **SSO** dengan token sekali pakai dan kunci per modul
+- **2FA TOTP yang dipaksa di database**, bukan hanya di aplikasi
+- Kunci login bertingkat dan log yang tidak pernah memuat data pribadi
 
 </td>
 <td width="33%" valign="top">
@@ -285,6 +339,8 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 - Jejak audit dan log aktivitas
 - Pemisahan tugas (pembuat ≠ penyetuju)
 - Pesan IoT idempoten (`seq`) dan buffer offline
+- Metodologi data science yang ketat: anti-leakage, kalibrasi, bootstrap, dan uji signifikansi
+- AI sebagai pendamping (bertanya, bukan menulis) dengan batas etika yang ditegakkan kode
 - Aplikasi **offline-first** (antrean IndexedDB, SQLite lokal)
 
 </td>
@@ -297,6 +353,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 - Aplikasi desktop dengan installer Windows
 - Real-time dengan WebSocket dan cadangan polling
 - Simulator untuk menguji tanpa perangkat keras
+- Migrasi database terkelola (Alembic) dan backup yang diverifikasi
 - Dokumentasi panduan setiap project
 
 </td>
