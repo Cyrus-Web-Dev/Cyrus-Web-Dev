@@ -88,7 +88,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <br/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,java,cpp,arduino,electron" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,arduino,electron" alt="backend"/>
 </p>
 
 ![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
