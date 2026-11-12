@@ -44,7 +44,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 </tr>
 </table>
 
-📫 **Kontak:** `lordkeyaruga01@gmail.com`
+📫 **Kontak:** `lordkeyaruga01@gmail.com` 
 ⚡ **Fun fact:** saya pernah membuat sistem yang menghitung OEE mesin pabrik dari sensor ESP32, model deteksi fraud dengan nilai Shapley eksak buatan sendiri, aplikasi logistik yang mendeteksi pencurian solar lewat GPS, visual novel dengan 5 jalur cerita, dan game tebak kode dengan lebih dari 2.400 soal.
 
 ---
@@ -175,7 +175,7 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <br/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,docker,linux,windows,postman,figma" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,docker,windows" alt="tools"/>
 </p>
 
 `Composer` · `Vite` · `EAS Build` · `Docker Compose` · `Alembic` · `pytest` · `Playwright` · `Caddy (HTTPS otomatis)` · `GitHub Actions` · `Sentry` · `Supervisor & cron` · `Laragon / XAMPP` · `pgAdmin` · `phpMyAdmin` · `Google Cloud Console`
@@ -378,6 +378,74 @@ React, Vue, Tailwind CSS, JavaScript, responsive web design, dan integrasi API a
 <img src="https://github-profile-trophy.vercel.app/?username=Cyrus-Web-Dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 </div>
+
+---
+
+## 📚 Dokumentasi Lengkap Tiap Project
+
+Setiap project punya **modul** yang menjelaskan tujuan, manfaat, kelebihan & kekurangan, stack, cara menjalankan, dan cara memakai tiap fitur. Klik **📖 Baca** untuk membuka PDF-nya langsung di GitHub (tanpa mengunduh), atau **⬇️ Unduh** untuk menyimpannya.
+
+> Seluruh modul berada di repositori [`project-modules`](https://github.com/Cyrus-Web-Dev/project-modules). Indeks lengkapnya: [**Buka daftar modul →**](https://github.com/Cyrus-Web-Dev/project-modules#daftar-modul)
+
+<details>
+<summary><b>Lihat semua modul (25)</b></summary>
+
+**ERP & Bisnis**
+
+| No | Project | Ringkasan | Baca | Unduh |
+|---|---|---|---|---|
+| 00 | **Suite ERP: Peta Hubungan 5 Aplikasi** | Hubungan Inventaris, PROCURA, MKP, SDM, dan PAYBRIDGE | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/00-suite-erp-peta-hubungan.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/00-suite-erp-peta-hubungan.pdf) |
+| 01 | **ERP Inventaris** | Aset, barang, kendaraan, gedung, peminjaman | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/01-erp-inventaris.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/01-erp-inventaris.pdf) |
+| 02 | **ERP PROCURA** | Pengadaan, vendor, PO, pengajuan dana | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/02-erp-procura.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/02-erp-procura.pdf) |
+| 03 | **ERP MKP (Keuangan)** | Akuntansi double-entry dan laporan keuangan | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/03-erp-mkp-keuangan.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/03-erp-mkp-keuangan.pdf) |
+| 04 | **ERP SDM HRIS** | Karyawan, absensi, cuti, rekrutmen, kinerja | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/04-erp-sdm-hris.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/04-erp-sdm-hris.pdf) |
+| 05 | **ERP PAYBRIDGE** | Payroll, pajak, BPJS, anggaran SDM | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/05-erp-paybridge-payroll.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/05-erp-paybridge-payroll.pdf) |
+| 17 | **PROFINA** | Satu pintu login (SSO) untuk lima aplikasi | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/17-profina.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/17-profina.pdf) |
+
+**Komersial & UMKM**
+
+| No | Project | Ringkasan | Baca | Unduh |
+|---|---|---|---|---|
+| 06 | **CEMWP** | Gudang, kasir, toko online, dan CRM terhubung | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/06-cemwp.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/06-cemwp.pdf) |
+| 18 | **TokoLokal** | Kasir UMKM offline (Android, iOS, Windows) | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/18-tokolokal.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/18-tokolokal.pdf) |
+| 20 | **FICOIM** | Keuangan, stok, dan kasir UMKM web + HP | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/20-ficoim.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/20-ficoim.pdf) |
+| 24 | **JASA-WEB** | Situs jasa pembuatan project dengan pelacakan order | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/24-jasa-web.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/24-jasa-web.pdf) |
+
+**Industri & IoT**
+
+| No | Project | Ringkasan | Baca | Unduh |
+|---|---|---|---|---|
+| 15 | **FLEETPRO** | Logistik armada: GPS, surat jalan, solar, gaji driver | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/15-fleetpro.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/15-fleetpro.pdf) |
+| 16 | **MEPRO** | Monitoring mesin pabrik dari sensor ESP32 dan OEE | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/16-mepro.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/16-mepro.pdf) |
+
+**Data, AI & Finansial**
+
+| No | Project | Ringkasan | Baca | Unduh |
+|---|---|---|---|---|
+| 10 | **SPK Pengelolaan Keuangan** | Versi web dan desktop Windows | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/10-spk-keuangan.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/10-spk-keuangan.pdf) |
+| 21 | **Deteksi Financial Fraud** | Skripsi Statistika: ML + FastAPI + React | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/21-fraud-detection.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/21-fraud-detection.pdf) |
+| 22 | **DOSPEM** | Pendamping skripsi berbasis AI | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/22-dospem.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/22-dospem.pdf) |
+| 23 | **StockFolio** | Pelacak portofolio saham dengan analitik | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/23-stockfolio.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/23-stockfolio.pdf) |
+
+**Game & Hiburan**
+
+| No | Project | Ringkasan | Baca | Unduh |
+|---|---|---|---|---|
+| 07 | **Kode Tebak v2.5 (Web)** | Game tebak kode dengan 1.500+ soal | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/07-kode-tebak-web.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/07-kode-tebak-web.pdf) |
+| 11 | **Tes IQ & EQ v2** | 800 soal, 100% offline, lintas platform | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/11-tes-iq-eq.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/11-tes-iq-eq.pdf) |
+| 13 | **Visual Novel Harmoni Lima Hati** | Romance Indonesia dengan sistem affection | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/13-visual-novel-harmoni-lima-hati.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/13-visual-novel-harmoni-lima-hati.pdf) |
+| 14 | **Kode Tebak Mobile** | Versi offline dengan 2.415 soal | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/14-kode-tebak-mobile.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/14-kode-tebak-mobile.pdf) |
+
+**Web, Tools & Edukasi**
+
+| No | Project | Ringkasan | Baca | Unduh |
+|---|---|---|---|---|
+| 08 | **BDW Blog** | Blog developer dengan panel admin | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/08-bdw-blog.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/08-bdw-blog.pdf) |
+| 09 | **Perpustakaan Digital** | Peminjaman buku dengan OTP dan REST API | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/09-perpustakaan-digital.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/09-perpustakaan-digital.pdf) |
+| 12 | **Toolkit App** | 25 alat PDF, gambar, dokumen, dan AI | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/12-toolkit-app.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/12-toolkit-app.pdf) |
+| 19 | **Toolkit App (Public Edition)** | Edisi open-source berlisensi MIT | [📖 Baca](https://github.com/Cyrus-Web-Dev/project-modules/blob/main/pdf/19-toolkit-app-public.pdf) | [⬇️ Unduh](https://github.com/Cyrus-Web-Dev/project-modules/raw/main/pdf/19-toolkit-app-public.pdf) |
+
+</details>
 
 ---
 
